@@ -1,0 +1,32 @@
+{
+    "glioma_tumor": {
+      "1": "Glioma adalah jenis tumor otak yang berasal dari sel glia.",
+      "2": "Glioma dapat bersifat ganas (kanker) atau jinak.",
+      "3": "Glioma sering ditemukan pada bagian otak yang mengendalikan fungsi penting seperti bicara dan gerakan.",
+      "4": "Pengobatan glioma melibatkan pembedahan, radioterapi, dan kemoterapi.",
+      "5": "Glioma memiliki beberapa subjenis, termasuk glioblastoma multiforme (GBM)."
+      
+    },
+    "menigioma_tumor": {
+      "1": "Meningioma adalah tumor yang berasal dari sel-sel membran yang melapisi otak dan sumsum tulang belakang.",
+      "2": "Meningioma biasanya bersifat jinak dan tumbuh perlahan.",
+      "3": "Gejala meningioma dapat termasuk sakit kepala, kelemahan, dan gangguan penglihatan.",
+      "4": "Pengobatan meningioma melibatkan pembedahan untuk mengangkat tumor.",
+      "5": "Meningioma lebih umum terjadi pada wanita daripada pria."
+    },
+    "no_tumor": {
+      "1": "Kondisi 'no tumor' berarti tidak ada tumor yang terdeteksi pada gambar MRI otak.",
+      "2": "Ini adalah hasil yang diinginkan karena menunjukkan ketiadaan masalah kesehatan.",
+      "3": "Namun, gejala lain atau penyakit non-tumor masih mungkin terjadi.",
+      "4": "Pemeriksaan rutin dan pemantauan kesehatan tetap penting.",
+      "5": "Hasil 'no tumor' tidak selalu berarti tidak ada masalah lain yang perlu diperhatikan."
+    },
+    "pituitary_tumor": {
+      "1": "Tumor pituitari adalah tumor yang tumbuh di kelenjar pituitari di dasar otak.",
+      "2": "Tumor pituitari dapat mempengaruhi produksi hormon dan menyebabkan gangguan hormonal.",
+      "3": "Gejala tumor pituitari termasuk gangguan penglihatan, sakit kepala, dan perubahan hormon.",
+      "4": "Pengobatan tergantung pada ukuran dan jenis tumor, termasuk pembedahan dan terapi obat.",
+      "5": "Tumor pituitari dapat bersifat jinak atau ganas."
+    }
+  }
+  
