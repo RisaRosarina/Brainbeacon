@@ -1,16 +1,18 @@
-# tumor
+# Brain Beacon 
 
-A new Flutter project.
+**Kelompok 7:**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Risa Rosarina            (2106009)\
+Sahrudin Fiqri Muzahidat (2106024)
 
-A few resources to get you started if this is your first Flutter project:
+**Tentang Aplikasi**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Brain Beacon merupakan sebuah aplikasi mobile yang dapat digunakan untuk mendeteksi jenis tumor otak.\
+Cara penggunaannya adalah dengan mengunggah foto berupa MRI dengan dua pilihan yaitu "Take Picture"\
+(langsung memotret) ataupun "Pick Photo" (mengambil dari galeri).
+
+**Tampilan Aplikasi**
+
+**Database**
